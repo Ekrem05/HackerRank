@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\bin\Debug\net8.0\PlusMinus.exe
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\bin\Debug\net8.0\PlusMinus.deps.json
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\bin\Debug\net8.0\PlusMinus.runtimeconfig.json
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\bin\Debug\net8.0\PlusMinus.dll
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\bin\Debug\net8.0\PlusMinus.pdb
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\PlusMinus.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\PlusMinus.dll
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\refint\PlusMinus.dll
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\PlusMinus.pdb
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\PlusMinus.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\PlusMinus\obj\Debug\net8.0\ref\PlusMinus.dll

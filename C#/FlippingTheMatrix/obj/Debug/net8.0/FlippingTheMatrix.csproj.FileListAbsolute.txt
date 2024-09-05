@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\bin\Debug\net8.0\FlippingTheMatrix.exe
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\bin\Debug\net8.0\FlippingTheMatrix.deps.json
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\bin\Debug\net8.0\FlippingTheMatrix.runtimeconfig.json
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\bin\Debug\net8.0\FlippingTheMatrix.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\bin\Debug\net8.0\FlippingTheMatrix.pdb
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\FlippingTheMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\FlippingTheMatrix.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\FlippingTheMatrix.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\FlippingTheMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\FlippingTheMatrix.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\refint\FlippingTheMatrix.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\FlippingTheMatrix.pdb
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\FlippingTheMatrix.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\FlippingTheMatrix\obj\Debug\net8.0\ref\FlippingTheMatrix.dll

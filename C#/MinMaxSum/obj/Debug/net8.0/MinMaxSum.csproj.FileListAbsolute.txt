@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\bin\Debug\net8.0\MinMaxSum.exe
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\bin\Debug\net8.0\MinMaxSum.deps.json
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\bin\Debug\net8.0\MinMaxSum.runtimeconfig.json
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\bin\Debug\net8.0\MinMaxSum.dll
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\bin\Debug\net8.0\MinMaxSum.pdb
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\MinMaxSum.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\MinMaxSum.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\MinMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\MinMaxSum.dll
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\refint\MinMaxSum.dll
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\MinMaxSum.pdb
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\MinMaxSum.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\source\repos\ConsoleApp1\MinMaxSum\obj\Debug\net8.0\ref\MinMaxSum.dll
