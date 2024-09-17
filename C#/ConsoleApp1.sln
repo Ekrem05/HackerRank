@@ -9,13 +9,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMaxSum", "MinMaxSum\MinM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time Conversion", "Time Conversion\Time Conversion.csproj", "{29ED89BD-FA76-4007-8111-B0B386157CB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{071FC2C7-2E94-4F08-AD48-857F363AB855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{071FC2C7-2E94-4F08-AD48-857F363AB855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{DB48C0F1-D52E-4BA0-8168-51B8162F5CF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{DB48C0F1-D52E-4BA0-8168-51B8162F5CF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSortOne", "CountingSortOne\CountingSortOne.csproj", "{6944AAC9-10CD-4AE6-A386-ECA0311DFB2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSortOne", "CountingSortOne\CountingSortOne.csproj", "{6944AAC9-10CD-4AE6-A386-ECA0311DFB2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlippingTheMatrix", "FlippingTheMatrix\FlippingTheMatrix.csproj", "{9D9A1BA8-1FA2-4B6D-B731-98730FAA9F53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlippingTheMatrix", "FlippingTheMatrix\FlippingTheMatrix.csproj", "{9D9A1BA8-1FA2-4B6D-B731-98730FAA9F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipping bits", "Flipping bits\Flipping bits.csproj", "{036E0E03-98CF-48E6-B69A-716E769DD47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{2DA02FEC-2216-4A6A-B340-7628B0FC775F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "Pangrams\Pangrams.csproj", "{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permuting Two Arrays", "Permuting Two Arrays\Permuting Two Arrays.csproj", "{41979F59-EA89-4B9D-A9A1-7496D29A80C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{9D9A1BA8-1FA2-4B6D-B731-98730FAA9F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D9A1BA8-1FA2-4B6D-B731-98730FAA9F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D9A1BA8-1FA2-4B6D-B731-98730FAA9F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036E0E03-98CF-48E6-B69A-716E769DD47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036E0E03-98CF-48E6-B69A-716E769DD47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036E0E03-98CF-48E6-B69A-716E769DD47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036E0E03-98CF-48E6-B69A-716E769DD47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA02FEC-2216-4A6A-B340-7628B0FC775F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA02FEC-2216-4A6A-B340-7628B0FC775F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA02FEC-2216-4A6A-B340-7628B0FC775F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA02FEC-2216-4A6A-B340-7628B0FC775F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41979F59-EA89-4B9D-A9A1-7496D29A80C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41979F59-EA89-4B9D-A9A1-7496D29A80C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41979F59-EA89-4B9D-A9A1-7496D29A80C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41979F59-EA89-4B9D-A9A1-7496D29A80C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

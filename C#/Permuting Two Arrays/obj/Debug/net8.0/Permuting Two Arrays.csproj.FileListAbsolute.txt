@@ -1,0 +1,15 @@
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\bin\Debug\net8.0\Permuting Two Arrays.exe
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\bin\Debug\net8.0\Permuting Two Arrays.deps.json
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\bin\Debug\net8.0\Permuting Two Arrays.runtimeconfig.json
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\bin\Debug\net8.0\Permuting Two Arrays.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\bin\Debug\net8.0\Permuting Two Arrays.pdb
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.sourcelink.json
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\refint\Permuting Two Arrays.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.pdb
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\Permuting Two Arrays.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Permuting Two Arrays\obj\Debug\net8.0\ref\Permuting Two Arrays.dll
