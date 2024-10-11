@@ -12,3 +12,4 @@ C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\LonelyInteger\obj\Debug\ne
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\LonelyInteger\obj\Debug\net8.0\LonelyInteger.pdb
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\LonelyInteger\obj\Debug\net8.0\LonelyInteger.genruntimeconfig.cache
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\LonelyInteger\obj\Debug\net8.0\ref\LonelyInteger.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\LonelyInteger\obj\Debug\net8.0\LonelyInteger.sourcelink.json

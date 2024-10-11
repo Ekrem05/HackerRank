@@ -12,3 +12,4 @@ C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\DiagonalDifference\obj\Deb
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.pdb
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.genruntimeconfig.cache
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\DiagonalDifference\obj\Debug\net8.0\ref\DiagonalDifference.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.sourcelink.json

@@ -26,3 +26,4 @@ C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Time Conversion\obj\Debug\
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Time Conversion\obj\Debug\net8.0\Time Conversion.pdb
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Time Conversion\obj\Debug\net8.0\Time Conversion.genruntimeconfig.cache
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Time Conversion\obj\Debug\net8.0\ref\Time Conversion.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\Time Conversion\obj\Debug\net8.0\Time Conversion.sourcelink.json

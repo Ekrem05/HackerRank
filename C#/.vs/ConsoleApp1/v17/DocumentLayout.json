@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84DAD273-0304-4173-9C48-04B410874E28}|Caesar Cipher\\Caesar Cipher.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\caesar cipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DAD273-0304-4173-9C48-04B410874E28}|Caesar Cipher\\Caesar Cipher.csproj|solutionrelative:caesar cipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7EACE5-0873-4C35-84A5-A6F676DAC688}|Grading Students\\Grading Students.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\grading students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7EACE5-0873-4C35-84A5-A6F676DAC688}|Grading Students\\Grading Students.csproj|solutionrelative:grading students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB2B675-846D-4E99-8FE7-222245E87622}|Birthday Cake Candles\\Birthday Cake Candles.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\birthday cake candles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB2B675-846D-4E99-8FE7-222245E87622}|Birthday Cake Candles\\Birthday Cake Candles.csproj|solutionrelative:birthday cake candles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AECD8F1-6608-45B5-A01C-A2F69A397FE5}|MinMaxSum\\MinMaxSum.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\minmaxsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AECD8F1-6608-45B5-A01C-A2F69A397FE5}|MinMaxSum\\MinMaxSum.csproj|solutionrelative:minmaxsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE5537F-B588-454E-9351-56F734A489B8}|Staircase\\Staircase.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\staircase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE5537F-B588-454E-9351-56F734A489B8}|Staircase\\Staircase.csproj|solutionrelative:staircase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1614E1C4-6181-4800-9518-D8D5D0A68B91}|PlusMinus\\PlusMinus.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\plusminus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1614E1C4-6181-4800-9518-D8D5D0A68B91}|PlusMinus\\PlusMinus.csproj|solutionrelative:plusminus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA02FEC-2216-4A6A-B340-7628B0FC775F}|Diagonal Difference\\Diagonal Difference.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA02FEC-2216-4A6A-B340-7628B0FC775F}|Diagonal Difference\\Diagonal Difference.csproj|solutionrelative:diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB48C0F1-D52E-4BA0-8168-51B8162F5CF3}|DiagonalDifference\\DiagonalDifference.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB48C0F1-D52E-4BA0-8168-51B8162F5CF3}|DiagonalDifference\\DiagonalDifference.csproj|solutionrelative:diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7BC28C-F765-497E-92C8-C8644D745EBC}|A Very Big Sum\\A Very Big Sum.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\a very big sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7BC28C-F765-497E-92C8-C8644D745EBC}|A Very Big Sum\\A Very Big Sum.csproj|solutionrelative:a very big sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0D142B-B0F8-4EB1-BD84-8D4630B1B065}|Compare the Triplets\\Compare the Triplets.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\compare the triplets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0D142B-B0F8-4EB1-BD84-8D4630B1B065}|Compare the Triplets\\Compare the Triplets.csproj|solutionrelative:compare the triplets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41979F59-EA89-4B9D-A9A1-7496D29A80C2}|Permuting Two Arrays\\Permuting Two Arrays.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\permuting two arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41979F59-EA89-4B9D-A9A1-7496D29A80C2}|Permuting Two Arrays\\Permuting Two Arrays.csproj|solutionrelative:permuting two arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}|Pangrams\\Pangrams.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\pangrams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}|Pangrams\\Pangrams.csproj|solutionrelative:pangrams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DA02FEC-2216-4A6A-B340-7628B0FC775F}|Diagonal Difference\\Diagonal Difference.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DA02FEC-2216-4A6A-B340-7628B0FC775F}|Diagonal Difference\\Diagonal Difference.csproj|solutionrelative:diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{036E0E03-98CF-48E6-B69A-716E769DD47B}|Flipping bits\\Flipping bits.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\flipping bits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +67,12 @@
       "RelativeMoniker": "D:0:0:{6944AAC9-10CD-4AE6-A386-ECA0311DFB2D}|CountingSortOne\\CountingSortOne.csproj|solutionrelative:countingsortone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB48C0F1-D52E-4BA0-8168-51B8162F5CF3}|DiagonalDifference\\DiagonalDifference.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB48C0F1-D52E-4BA0-8168-51B8162F5CF3}|DiagonalDifference\\DiagonalDifference.csproj|solutionrelative:diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{071FC2C7-2E94-4F08-AD48-857F363AB855}|LonelyInteger\\LonelyInteger.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\lonelyinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071FC2C7-2E94-4F08-AD48-857F363AB855}|LonelyInteger\\LonelyInteger.csproj|solutionrelative:lonelyinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29ED89BD-FA76-4007-8111-B0B386157CB5}|Time Conversion\\Time Conversion.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\time conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29ED89BD-FA76-4007-8111-B0B386157CB5}|Time Conversion\\Time Conversion.csproj|solutionrelative:time conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AECD8F1-6608-45B5-A01C-A2F69A397FE5}|MinMaxSum\\MinMaxSum.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\minmaxsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AECD8F1-6608-45B5-A01C-A2F69A397FE5}|MinMaxSum\\MinMaxSum.csproj|solutionrelative:minmaxsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1614E1C4-6181-4800-9518-D8D5D0A68B91}|PlusMinus\\PlusMinus.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\plusminus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1614E1C4-6181-4800-9518-D8D5D0A68B91}|PlusMinus\\PlusMinus.csproj|solutionrelative:plusminus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ekrem Beytula\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -71,44 +95,67 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Permuting Two Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Permuting Two Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Permuting Two Arrays\\Program.cs",
-              "RelativeToolTip": "Permuting Two Arrays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Caesar Cipher\\Program.cs",
+              "RelativeDocumentMoniker": "Caesar Cipher\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Caesar Cipher\\Program.cs",
+              "RelativeToolTip": "Caesar Cipher\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T17:31:12.433Z",
+              "WhenOpened": "2024-10-11T05:36:04.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Pangrams\\Program.cs",
-              "RelativeDocumentMoniker": "Pangrams\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Pangrams\\Program.cs",
-              "RelativeToolTip": "Pangrams\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Grading Students\\Program.cs",
+              "RelativeDocumentMoniker": "Grading Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Grading Students\\Program.cs",
+              "RelativeToolTip": "Grading Students\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:58:58.957Z",
+              "WhenOpened": "2024-10-11T04:35:29.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\A Very Big Sum\\Program.cs",
+              "RelativeDocumentMoniker": "A Very Big Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\A Very Big Sum\\Program.cs",
+              "RelativeToolTip": "A Very Big Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:59:37.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Compare the Triplets\\Program.cs",
+              "RelativeDocumentMoniker": "Compare the Triplets\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Compare the Triplets\\Program.cs",
+              "RelativeToolTip": "Compare the Triplets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:17:37.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Diagonal Difference\\Program.cs",
               "RelativeDocumentMoniker": "Diagonal Difference\\Program.cs",
               "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Diagonal Difference\\Program.cs",
               "RelativeToolTip": "Diagonal Difference\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:49:00.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T15:49:00.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Flipping bits\\Program.cs",
               "RelativeDocumentMoniker": "Flipping bits\\Program.cs",
@@ -116,12 +163,11 @@
               "RelativeToolTip": "Flipping bits\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:23:26.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T15:23:26.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\ZigZagSequence\\Program.cs",
               "RelativeDocumentMoniker": "ZigZagSequence\\Program.cs",
@@ -129,12 +175,11 @@
               "RelativeToolTip": "ZigZagSequence\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T12:43:07.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T12:43:07.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\FlippingTheMatrix\\Program.cs",
               "RelativeDocumentMoniker": "FlippingTheMatrix\\Program.cs",
@@ -147,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\CountingSortOne\\Program.cs",
               "RelativeDocumentMoniker": "CountingSortOne\\Program.cs",
@@ -159,19 +204,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Staircase\\Program.cs",
+              "RelativeDocumentMoniker": "Staircase\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Staircase\\Program.cs",
+              "RelativeToolTip": "Staircase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:07:14.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Birthday Cake Candles\\Program.cs",
+              "RelativeDocumentMoniker": "Birthday Cake Candles\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Birthday Cake Candles\\Program.cs",
+              "RelativeToolTip": "Birthday Cake Candles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:26:08.57Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\DiagonalDifference\\Program.cs",
               "RelativeDocumentMoniker": "DiagonalDifference\\Program.cs",
               "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\DiagonalDifference\\Program.cs",
               "RelativeToolTip": "DiagonalDifference\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T11:46:13.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\MinMaxSum\\Program.cs",
+              "RelativeDocumentMoniker": "MinMaxSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\MinMaxSum\\Program.cs",
+              "RelativeToolTip": "MinMaxSum\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:03:11.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\PlusMinus\\Program.cs",
+              "RelativeDocumentMoniker": "PlusMinus\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\PlusMinus\\Program.cs",
+              "RelativeToolTip": "PlusMinus\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:43:56.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Pangrams\\Program.cs",
+              "RelativeDocumentMoniker": "Pangrams\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Pangrams\\Program.cs",
+              "RelativeToolTip": "Pangrams\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:58:58.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Permuting Two Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Permuting Two Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Permuting Two Arrays\\Program.cs",
+              "RelativeToolTip": "Permuting Two Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:31:12.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\LonelyInteger\\Program.cs",
               "RelativeDocumentMoniker": "LonelyInteger\\Program.cs",
@@ -183,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Time Conversion\\Program.cs",
               "RelativeDocumentMoniker": "Time Conversion\\Program.cs",
@@ -195,31 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\MinMaxSum\\Program.cs",
-              "RelativeDocumentMoniker": "MinMaxSum\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\MinMaxSum\\Program.cs",
-              "RelativeToolTip": "MinMaxSum\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:03:11.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\PlusMinus\\Program.cs",
-              "RelativeDocumentMoniker": "PlusMinus\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\PlusMinus\\Program.cs",
-              "RelativeToolTip": "PlusMinus\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCQAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:43:56.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",

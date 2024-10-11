@@ -17,13 +17,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSortOne", "Counting
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlippingTheMatrix", "FlippingTheMatrix\FlippingTheMatrix.csproj", "{9D9A1BA8-1FA2-4B6D-B731-98730FAA9F53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipping bits", "Flipping bits\Flipping bits.csproj", "{036E0E03-98CF-48E6-B69A-716E769DD47B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flipping bits", "Flipping bits\Flipping bits.csproj", "{036E0E03-98CF-48E6-B69A-716E769DD47B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{2DA02FEC-2216-4A6A-B340-7628B0FC775F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{2DA02FEC-2216-4A6A-B340-7628B0FC775F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "Pangrams\Pangrams.csproj", "{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangrams", "Pangrams\Pangrams.csproj", "{17CE16FC-4AE1-4892-BCD8-7AB2DA05213C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permuting Two Arrays", "Permuting Two Arrays\Permuting Two Arrays.csproj", "{41979F59-EA89-4B9D-A9A1-7496D29A80C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permuting Two Arrays", "Permuting Two Arrays\Permuting Two Arrays.csproj", "{41979F59-EA89-4B9D-A9A1-7496D29A80C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compare the Triplets", "Compare the Triplets\Compare the Triplets.csproj", "{FF0D142B-B0F8-4EB1-BD84-8D4630B1B065}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A Very Big Sum", "A Very Big Sum\A Very Big Sum.csproj", "{2A7BC28C-F765-497E-92C8-C8644D745EBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{5EE5537F-B588-454E-9351-56F734A489B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{0BB2B675-846D-4E99-8FE7-222245E87622}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grading Students", "Grading Students\Grading Students.csproj", "{2F7EACE5-0873-4C35-84A5-A6F676DAC688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar Cipher", "Caesar Cipher\Caesar Cipher.csproj", "{84DAD273-0304-4173-9C48-04B410874E28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +87,30 @@ Global
 		{41979F59-EA89-4B9D-A9A1-7496D29A80C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41979F59-EA89-4B9D-A9A1-7496D29A80C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41979F59-EA89-4B9D-A9A1-7496D29A80C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0D142B-B0F8-4EB1-BD84-8D4630B1B065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0D142B-B0F8-4EB1-BD84-8D4630B1B065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0D142B-B0F8-4EB1-BD84-8D4630B1B065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0D142B-B0F8-4EB1-BD84-8D4630B1B065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7BC28C-F765-497E-92C8-C8644D745EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7BC28C-F765-497E-92C8-C8644D745EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7BC28C-F765-497E-92C8-C8644D745EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7BC28C-F765-497E-92C8-C8644D745EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE5537F-B588-454E-9351-56F734A489B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE5537F-B588-454E-9351-56F734A489B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE5537F-B588-454E-9351-56F734A489B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE5537F-B588-454E-9351-56F734A489B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB2B675-846D-4E99-8FE7-222245E87622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB2B675-846D-4E99-8FE7-222245E87622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB2B675-846D-4E99-8FE7-222245E87622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB2B675-846D-4E99-8FE7-222245E87622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7EACE5-0873-4C35-84A5-A6F676DAC688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7EACE5-0873-4C35-84A5-A6F676DAC688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7EACE5-0873-4C35-84A5-A6F676DAC688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7EACE5-0873-4C35-84A5-A6F676DAC688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DAD273-0304-4173-9C48-04B410874E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DAD273-0304-4173-9C48-04B410874E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DAD273-0304-4173-9C48-04B410874E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DAD273-0304-4173-9C48-04B410874E28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

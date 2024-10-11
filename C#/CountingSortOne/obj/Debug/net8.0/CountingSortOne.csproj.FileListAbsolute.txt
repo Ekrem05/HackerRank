@@ -12,3 +12,4 @@ C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\CountingSortOne\obj\Debug\
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\CountingSortOne\obj\Debug\net8.0\CountingSortOne.pdb
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\CountingSortOne\obj\Debug\net8.0\CountingSortOne.genruntimeconfig.cache
 C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\CountingSortOne\obj\Debug\net8.0\ref\CountingSortOne.dll
+C:\Users\Ekrem Beytula\Documents\Github\HackerRank\C#\CountingSortOne\obj\Debug\net8.0\CountingSortOne.sourcelink.json
