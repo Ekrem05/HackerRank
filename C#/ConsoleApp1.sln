@@ -37,6 +37,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grading Students", "Grading
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar Cipher", "Caesar Cipher\Caesar Cipher.csproj", "{84DAD273-0304-4173-9C48-04B410874E28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid Challenge", "Grid Challenge\Grid Challenge.csproj", "{DCD6A6A2-39EC-446B-8474-4FF80F6481B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Digit Sum", "Recursive Digit Sum\Recursive Digit Sum.csproj", "{51FAA077-3DB5-4A18-97BF-E9654B0F6D02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{84DAD273-0304-4173-9C48-04B410874E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84DAD273-0304-4173-9C48-04B410874E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84DAD273-0304-4173-9C48-04B410874E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD6A6A2-39EC-446B-8474-4FF80F6481B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD6A6A2-39EC-446B-8474-4FF80F6481B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD6A6A2-39EC-446B-8474-4FF80F6481B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD6A6A2-39EC-446B-8474-4FF80F6481B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FAA077-3DB5-4A18-97BF-E9654B0F6D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FAA077-3DB5-4A18-97BF-E9654B0F6D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FAA077-3DB5-4A18-97BF-E9654B0F6D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FAA077-3DB5-4A18-97BF-E9654B0F6D02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51FAA077-3DB5-4A18-97BF-E9654B0F6D02}|Recursive Digit Sum\\Recursive Digit Sum.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\recursive digit sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FAA077-3DB5-4A18-97BF-E9654B0F6D02}|Recursive Digit Sum\\Recursive Digit Sum.csproj|solutionrelative:recursive digit sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD6A6A2-39EC-446B-8474-4FF80F6481B0}|Grid Challenge\\Grid Challenge.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\grid challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD6A6A2-39EC-446B-8474-4FF80F6481B0}|Grid Challenge\\Grid Challenge.csproj|solutionrelative:grid challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84DAD273-0304-4173-9C48-04B410874E28}|Caesar Cipher\\Caesar Cipher.csproj|c:\\users\\ekrem beytula\\documents\\github\\hackerrank\\c#\\caesar cipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84DAD273-0304-4173-9C48-04B410874E28}|Caesar Cipher\\Caesar Cipher.csproj|solutionrelative:caesar cipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,18 +103,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Recursive Digit Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Recursive Digit Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Recursive Digit Sum\\Program.cs*",
+              "RelativeToolTip": "Recursive Digit Sum\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:47:17.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Grid Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "Grid Challenge\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Grid Challenge\\Program.cs",
+              "RelativeToolTip": "Grid Challenge\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:08:44.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Caesar Cipher\\Program.cs",
               "RelativeDocumentMoniker": "Caesar Cipher\\Program.cs",
-              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Caesar Cipher\\Program.cs*",
-              "RelativeToolTip": "Caesar Cipher\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBYAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Caesar Cipher\\Program.cs",
+              "RelativeToolTip": "Caesar Cipher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T05:36:04.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Grading Students\\Program.cs",
               "RelativeDocumentMoniker": "Grading Students\\Program.cs",
@@ -119,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\A Very Big Sum\\Program.cs",
               "RelativeDocumentMoniker": "A Very Big Sum\\Program.cs",
@@ -131,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Compare the Triplets\\Program.cs",
               "RelativeDocumentMoniker": "Compare the Triplets\\Program.cs",
@@ -143,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Diagonal Difference\\Program.cs",
               "RelativeDocumentMoniker": "Diagonal Difference\\Program.cs",
@@ -155,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Flipping bits\\Program.cs",
               "RelativeDocumentMoniker": "Flipping bits\\Program.cs",
@@ -167,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\ZigZagSequence\\Program.cs",
               "RelativeDocumentMoniker": "ZigZagSequence\\Program.cs",
@@ -179,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\FlippingTheMatrix\\Program.cs",
               "RelativeDocumentMoniker": "FlippingTheMatrix\\Program.cs",
@@ -192,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\CountingSortOne\\Program.cs",
               "RelativeDocumentMoniker": "CountingSortOne\\Program.cs",
@@ -204,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Staircase\\Program.cs",
               "RelativeDocumentMoniker": "Staircase\\Program.cs",
@@ -216,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Birthday Cake Candles\\Program.cs",
               "RelativeDocumentMoniker": "Birthday Cake Candles\\Program.cs",
@@ -228,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\DiagonalDifference\\Program.cs",
               "RelativeDocumentMoniker": "DiagonalDifference\\Program.cs",
@@ -240,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\MinMaxSum\\Program.cs",
               "RelativeDocumentMoniker": "MinMaxSum\\Program.cs",
@@ -252,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\PlusMinus\\Program.cs",
               "RelativeDocumentMoniker": "PlusMinus\\Program.cs",
@@ -264,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Pangrams\\Program.cs",
               "RelativeDocumentMoniker": "Pangrams\\Program.cs",
@@ -276,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Permuting Two Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Permuting Two Arrays\\Program.cs",
@@ -288,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\LonelyInteger\\Program.cs",
               "RelativeDocumentMoniker": "LonelyInteger\\Program.cs",
@@ -300,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\HackerRank\\C#\\Time Conversion\\Program.cs",
               "RelativeDocumentMoniker": "Time Conversion\\Program.cs",
@@ -312,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
